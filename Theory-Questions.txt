@@ -1,14 +1,25 @@
 Q1- What is JavaScript? 
+
 Ans- JavaScript is a Programing language that is used for converting static web pages to interactive and dynamic 
 webpages.
 
 Q2- What is the Role of JavaScript engine ? 
+
 Ans- JavaScript engines are responsible for executing JavaScript code. They take in JavaScript code written by developers and convert it into machine code that the computer can understand and execute.
 Examples of popular JavaScript engines include V8 (used in Chrome and Node.js), SpiderMonkey (used in Firefox), and JavaScriptCore (used in Safari).
 
 Q3- What is the Role of JavaScript Runtime Environments ?
+
 Ans-  A JavaScript runtime environment provides the infrastructure and environment for executing JavaScript code. It includes not only the JavaScript engine but also additional features and APIs that allow JavaScript code to interact with its environment.
 Runtime environments provide functionalities like the Document Object Model (DOM) for web browsers, file system access, network communication, timers, and more.
 
 Q4- Difference between JavaScriptEngine and JavaScript runtime environment ? 
+
 Ans- JavaScript engines are responsible for executing JavaScript code at a low level, while JavaScript runtime environments provide a broader infrastructure and additional features for executing JavaScript code in various contexts, such as web browsers or server-side environments.
+
+Q5- What are Client Side and Server side ? 
+
+Ans- Client Side- A client is a device, application or software component that requests and consumes services or 
+resources from a server.
+    Server Side- A server is a device, computer, or software application that provides services, resources,
+    or functions to clients.
