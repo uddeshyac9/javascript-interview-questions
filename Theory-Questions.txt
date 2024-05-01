@@ -23,3 +23,8 @@ Ans- Client Side- A client is a device, application or software component that r
 resources from a server.
     Server Side- A server is a device, computer, or software application that provides services, resources,
     or functions to clients.
+
+Q6-What are variables ? What is the Difference between var,let and const? 
+Ans- var has function scope and can be re-declared and reassigned.
+     let has block scope and can be reassigned but not re-declared.
+     const has block scope and cannot be reassigned, but it's not immutable if it holds a reference to an object or array.
