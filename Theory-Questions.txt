@@ -25,6 +25,12 @@ resources from a server.
     or functions to clients.
 
 Q6-What are variables ? What is the Difference between var,let and const? 
+
 Ans- var has function scope and can be re-declared and reassigned.
      let has block scope and can be reassigned but not re-declared.
      const has block scope and cannot be reassigned, but it's not immutable if it holds a reference to an object or array.
+
+Q7- what is Dom ? what is the difference between HTML and DOM ?
+
+Ans - DOM (Document Object Model): The DOM is a programming interface that represents the HTML document as a tree-like structure of objects (nodes) that can be manipulated with programming languages like JavaScript.
+HTML is a static markup language that defines the structure and content of a web page, while the DOM is a dynamic representation of that HTML document that can be manipulated and interacted with using programming languages like JavaScript.
